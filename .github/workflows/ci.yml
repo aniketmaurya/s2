@@ -15,6 +15,7 @@ concurrency:
 env:
   CARGO_TERM_COLOR: always
 
+
 jobs:
   rust-dependency-cooldown:
     name: Rust dependency cooldown gate
